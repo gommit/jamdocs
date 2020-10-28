@@ -1,21 +1,18 @@
 ---
-title: Getting started
-date: 2018-09-15 07:42:34
-slug: getting-started
+title: Interface
+date: 2018-09-15T07:42:34.000+00:00
+slug: interface
+
 ---
+## Interface
 
-## What is Jamdocs
+We don't have many buttons, but this is what they do:
 
-Jamdocs is a documentation theme for Gridsome, built to spin up quick, beautiful and static documentation sites fast without hassle. Since there is no theming system for Gridsome yet, Jamdocs comes with Gridsome, plug-ins and packages as dependencies.
+* Zoom range: Change the zoom range
+* Page flip: Change the page flip
 
-## Local installation
+Click on the channel names to expose the channel settings. You can:
 
-Even though Jamdocs is so simple, you dont really need to set it up localy (you could just fork it on github to edit styles and md-files) - if you want to change it up a bit I recommend setting up localy for a better developer experience.
-
-To set up a new instance of Jamdocs, and start developing just clone the project from Github like, go to the directory and run gridsome:
-
-```bash
-git clone https://github.com/samuelhorn/jamdocs project-name
-cd project-name
-gridsome develop
-```
+* Auto scale the signals
+* Resize the channel
+* Change the signal ordering
