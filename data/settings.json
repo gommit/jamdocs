@@ -1,5 +1,13 @@
 {
   "sidebar": [
-
+    {
+      "section": "",
+      "topics": [
+        {
+          "title": "Scoring",
+          "slug": "scoring"
+        }
+      ]
+    }
   ]
 }
